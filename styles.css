@@ -8,7 +8,7 @@ body {
     font-weight: bold;
     text-align: center;
     overflow: hidden;
-    background-image: url(/images/sunset.jpg);
+    background-image: url(/sunset.jpg);
 }
 
 h1 {
@@ -89,4 +89,5 @@ h2 {
     justify-content: flex-end;
     padding-right: 2em;
     padding-top: 4em;
+
 }
